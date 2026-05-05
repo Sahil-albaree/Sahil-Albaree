@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Sam 👋
 
-<!--
-**Sahil-albaree/Sahil-Albaree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Data Engineer
+💻 Python | SQL | ETL | MySQL
+📊 Passionate about data and automation
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+* Python
+* SQL (MySQL)
+* Pandas
+* ETL Pipelines
+* Git & GitHub
+* Linux Basics
+
+---
+
+## 🔥 Current Focus
+
+* Building data engineering projects
+* Learning real-world pipeline systems
+
+---
+
+## 📫 Contact Me
+
+* Email: Sahilchoush786@gmail.com
+* LinkedIn: www.linkedin.com/in/sahil-choush
+
+---
+
+## ⚡ Goal
+
+To become a Data Engineer and work on real-world data systems 🚀
